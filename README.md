@@ -5,8 +5,6 @@ git clone https://github.com/jrojas1798/demo_django.git
 
 cd demo_django
 
-source .venv/bin/activate
-
 pip3 install -r requirements.txt
 
 python3 manage.py makemigrations
